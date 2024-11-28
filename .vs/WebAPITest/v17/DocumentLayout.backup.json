@@ -1,0 +1,1510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|solutionrelative:webapitest\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|solutionrelative:webapitest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\employeecommand\\employecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\employeecommand\\employecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest.infastructure\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|solutionrelative:webapitest.infastructure\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\productcommand\\productcommandhandlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\productcommand\\productcommandhandlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\productcommand\\removeproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\productcommand\\removeproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\employeecommand\\updateemployecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\employeecommand\\updateemployecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\quereyemployee\\getbyidemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\quereyemployee\\getbyidemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\employeecommand\\createemployecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\employeecommand\\createemployecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\employeecommand\\removeemployecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\employeecommand\\removeemployecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\quereyemployee\\employeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\quereyemployee\\employeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest.infastructure\\repository\\generaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|solutionrelative:webapitest.infastructure\\repository\\generaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\productcommand\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\productcommand\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\quereyemployee\\getallemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\quereyemployee\\getallemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\irepository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\irepository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\productcommand\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\productcommand\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest\\webapitest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|solutionrelative:webapitest\\webapitest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|solutionrelative:webapitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\webtest.applicationn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\webtest.applicationn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|solutionrelative:webapitest\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|solutionrelative:webapitest\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\queryproduct\\productqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\queryproduct\\productqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\queryproduct\\getbyidproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\queryproduct\\getbyidproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\queryproduct\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\queryproduct\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\common\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\common\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest.infastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|solutionrelative:webapitest.infastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\irepository\\igeneraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\irepository\\igeneraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\gategorycommand\\categorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\gategorycommand\\categorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\gategorycommand\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\gategorycommand\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest.infastructure\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|solutionrelative:webapitest.infastructure\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\subservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\subservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\roomtypebedtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\roomtypebedtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\pricetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\pricetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\queryorder\\orderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\queryorder\\orderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\ordercommand\\ordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\ordercommand\\ordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\ordercommand\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\ordercommand\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\paymentcommand\\paymentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\paymentcommand\\paymentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\paymentcommand\\processpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\paymentcommand\\processpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\querypayment\\paymentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\querypayment\\paymentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\service\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\service\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\event\\orderevent\\ordereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\event\\orderevent\\ordereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest.infastructure\\rabbitmqbus\\irabbitmqbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|solutionrelative:webapitest.infastructure\\rabbitmqbus\\irabbitmqbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest.infastructure\\rabbitmqbus\\rabbitmqbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|solutionrelative:webapitest.infastructure\\rabbitmqbus\\rabbitmqbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest.infastructure\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|solutionrelative:webapitest.infastructure\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\automapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\automapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\querypayment\\getbyidpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\querypayment\\getbyidpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\querypayment\\getallpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\querypayment\\getallpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\irepository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\irepository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest.infastructure\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|solutionrelative:webapitest.infastructure\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\commands\\paymentcommand\\paymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\commands\\paymentcommand\\paymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\service\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\service\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\ievent\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\ievent\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\icommand\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\icommand\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\icommand\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\icommand\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\event\\orderevent\\createorderevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\event\\orderevent\\createorderevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\ievent\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\ievent\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\event\\productevent\\producteventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\event\\productevent\\producteventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\iqueries\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\iqueries\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\quereycategory\\categoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\quereycategory\\categoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\queryorder\\getallorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\queryorder\\getallorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\query\\quereycategory\\getallcategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\query\\quereycategory\\getallcategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\event\\productevent\\producteventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\event\\productevent\\producteventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.applicationn\\event\\productevent\\createproductevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF8545-5A71-4222-9294-05BF7229EDAC}|WebTest.Applicationn\\WebTest.Applicationn.csproj|solutionrelative:webtest.applicationn\\event\\productevent\\createproductevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest.infastructure\\webapitest.infastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|solutionrelative:webapitest.infastructure\\webapitest.infastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest.infastructure\\repository\\productqueryrepository\\productqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8123F870-2A9D-4A11-ABC2-5ECE1084DC3C}|WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj|solutionrelative:webapitest.infastructure\\repository\\productqueryrepository\\productqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\migrations\\20241107164851_initorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\migrations\\20241107164851_initorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\migrations\\20241128024722_dbinitemploye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\migrations\\20241128024722_dbinitemploye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\addresshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\addresshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\model\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\model\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\migrations\\20241112080457_edithotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\migrations\\20241112080457_edithotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webtest.domain\\migrations\\20241112062651_dbinithotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB1656E-55D3-48B7-8531-94E740B0D8F5}|WebTest.Domain\\WebTest.Domain.csproj|solutionrelative:webtest.domain\\migrations\\20241112062651_dbinithotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|c:\\users\\user1\\source\\repos\\webapitest\\webapitest\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F4EDF1-CBD2-48D0-B0AE-15257BF402A4}|WebAPITest\\WebAPITest.csproj|solutionrelative:webapitest\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Hotel.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\Hotel.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Hotel.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\Hotel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:41:05.56Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemoveProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\ProductCommand\\RemoveProductCommand.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\ProductCommand\\RemoveProductCommand.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\ProductCommand\\RemoveProductCommand.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\ProductCommand\\RemoveProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:01:01.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCommandHandlder.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\ProductCommand\\ProductCommandHandlder.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\ProductCommand\\ProductCommandHandlder.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\ProductCommand\\ProductCommandHandlder.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\ProductCommand\\ProductCommandHandlder.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:42:38.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebAPITest\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebAPITest\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:41:56.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "WebAPITest.Infastructure\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "WebAPITest.Infastructure\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:33:21.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebAPITest\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebAPITest\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:02:10.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\EmployeeCommand\\EmployeCommandHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\EmployeeCommand\\EmployeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\EmployeeCommand\\EmployeCommandHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\EmployeeCommand\\EmployeCommandHandler.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:42:21.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateEmployeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\EmployeeCommand\\UpdateEmployeCommand.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\EmployeeCommand\\UpdateEmployeCommand.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\EmployeeCommand\\UpdateEmployeCommand.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\EmployeeCommand\\UpdateEmployeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:40:35.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetByIdEmployeeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QuereyEmployee\\GetByIdEmployeeQuery.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QuereyEmployee\\GetByIdEmployeeQuery.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QuereyEmployee\\GetByIdEmployeeQuery.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QuereyEmployee\\GetByIdEmployeeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:08:30.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateEmployeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\EmployeeCommand\\CreateEmployeCommand.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\EmployeeCommand\\CreateEmployeCommand.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\EmployeeCommand\\CreateEmployeCommand.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\EmployeeCommand\\CreateEmployeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:38:13.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RemoveEmployeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\EmployeeCommand\\RemoveEmployeCommand.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\EmployeeCommand\\RemoveEmployeCommand.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\EmployeeCommand\\RemoveEmployeCommand.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\EmployeeCommand\\RemoveEmployeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:41:06.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QuereyEmployee\\EmployeeQueryHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QuereyEmployee\\EmployeeQueryHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QuereyEmployee\\EmployeeQueryHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QuereyEmployee\\EmployeeQueryHandler.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:08:44.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenerateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\GenerateRepository.cs",
+              "RelativeDocumentMoniker": "WebAPITest.Infastructure\\Repository\\GenerateRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\GenerateRepository.cs",
+              "RelativeToolTip": "WebAPITest.Infastructure\\Repository\\GenerateRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:48:29.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\ProductCommand\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\ProductCommand\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\ProductCommand\\UpdateProductCommand.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\ProductCommand\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:00:43.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllEmployeeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QuereyEmployee\\GetAllEmployeeQuery.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QuereyEmployee\\GetAllEmployeeQuery.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QuereyEmployee\\GetAllEmployeeQuery.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QuereyEmployee\\GetAllEmployeeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:08:17.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\IRepository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\IRepository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\IRepository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "WebTest.Domain\\IRepository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:31:26.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\DTOs\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\DTOs\\PaymentDTO.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\DTOs\\PaymentDTO.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\DTOs\\PaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:55:36.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:36:20.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Employee.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:30:45.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\ProductCommand\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\ProductCommand\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\ProductCommand\\CreateProductCommand.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\ProductCommand\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:00:13.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebAPITest.http",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\WebAPITest.http",
+              "RelativeDocumentMoniker": "WebAPITest\\WebAPITest.http",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\WebAPITest.http",
+              "RelativeToolTip": "WebAPITest\\WebAPITest.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-28T02:54:34.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPITest\\Program.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\Program.cs",
+              "RelativeToolTip": "WebAPITest\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAvwC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:51:53.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebTest.Applicationn.csproj",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\WebTest.Applicationn.csproj",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\WebTest.Applicationn.csproj",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\WebTest.Applicationn.csproj",
+              "RelativeToolTip": "WebTest.Applicationn\\WebTest.Applicationn.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T09:20:18.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20241128024722_DbInitEmploye.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Migrations\\20241128024722_DbInitEmploye.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Migrations\\20241128024722_DbInitEmploye.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Migrations\\20241128024722_DbInitEmploye.cs",
+              "RelativeToolTip": "WebTest.Domain\\Migrations\\20241128024722_DbInitEmploye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:47:22.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebAPITest\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebAPITest\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:36:16.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebAPITest\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebAPITest\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:02:58.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryProduct\\ProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QueryProduct\\ProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryProduct\\ProductQueryHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QueryProduct\\ProductQueryHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:33:49.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetByIdProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryProduct\\GetByIdProductQuery.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QueryProduct\\GetByIdProductQuery.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryProduct\\GetByIdProductQuery.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QueryProduct\\GetByIdProductQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:33:22.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetAllProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryProduct\\GetAllProductQuery.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QueryProduct\\GetAllProductQuery.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryProduct\\GetAllProductQuery.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QueryProduct\\GetAllProductQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:33:07.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Common\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Common\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Common\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebTest.Domain\\Common\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:30:24.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "WebAPITest.Infastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "WebAPITest.Infastructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:39:19.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGenerateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\IRepository\\IGenerateRepository.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\IRepository\\IGenerateRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\IRepository\\IGenerateRepository.cs",
+              "RelativeToolTip": "WebTest.Domain\\IRepository\\IGenerateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:17:57.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\GategoryCommand\\CategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\GategoryCommand\\CategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\GategoryCommand\\CategoryCommandHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\GategoryCommand\\CategoryCommandHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:55:19.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\GategoryCommand\\CreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\GategoryCommand\\CreateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\GategoryCommand\\CreateCategoryCommand.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\GategoryCommand\\CreateCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:54:16.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:21:39.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:51:28.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddressDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\DTOs\\AddressDTO.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\DTOs\\AddressDTO.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\DTOs\\AddressDTO.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\DTOs\\AddressDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:00:07.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "WebAPITest.Infastructure\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "WebAPITest.Infastructure\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:26:02.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:55:16.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RoomTypeBedType.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\RoomTypeBedType.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\RoomTypeBedType.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\RoomTypeBedType.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\RoomTypeBedType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:52:26.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\RoomType.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\RoomType.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\RoomType.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:39:28.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Room.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\Room.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Room.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:42:03.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Product.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:08:20.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\IRepository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\IRepository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\IRepository\\IOrderRepository.cs",
+              "RelativeToolTip": "WebTest.Domain\\IRepository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:25:29.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PriceType.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\PriceType.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\PriceType.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\PriceType.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\PriceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:55:05.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Payment.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\Payment.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Payment.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:20:04.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Booking.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\Booking.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Booking.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:35:33.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SubService.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\SubService.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\SubService.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\SubService.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\SubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:02:56.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "AddressHotel.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\AddressHotel.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\AddressHotel.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\AddressHotel.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\AddressHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:15:45.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Service.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\Service.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Service.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\Service.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:42:55.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20241112080457_EditHotel.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Migrations\\20241112080457_EditHotel.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Migrations\\20241112080457_EditHotel.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Migrations\\20241112080457_EditHotel.cs",
+              "RelativeToolTip": "WebTest.Domain\\Migrations\\20241112080457_EditHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:04:57.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20241112062651_DbInitHotel.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Migrations\\20241112062651_DbInitHotel.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Migrations\\20241112062651_DbInitHotel.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Migrations\\20241112062651_DbInitHotel.cs",
+              "RelativeToolTip": "WebTest.Domain\\Migrations\\20241112062651_DbInitHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:26:52.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\OrderCommand\\OrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\OrderCommand\\OrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\OrderCommand\\OrderCommandHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\OrderCommand\\OrderCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:24:42.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryOrder\\OrderQueryHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QueryOrder\\OrderQueryHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryOrder\\OrderQueryHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QueryOrder\\OrderQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:18:06.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\OrderCommand\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\OrderCommand\\CreateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\OrderCommand\\CreateOrderCommand.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\OrderCommand\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:01:53.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Order.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:02:19.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PaymentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\PaymentCommand\\PaymentCommandHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\PaymentCommand\\PaymentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\PaymentCommand\\PaymentCommandHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\PaymentCommand\\PaymentCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewBUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:07:16.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProcessPaymentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\PaymentCommand\\ProcessPaymentCommand.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\PaymentCommand\\ProcessPaymentCommand.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\PaymentCommand\\ProcessPaymentCommand.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\PaymentCommand\\ProcessPaymentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:05:43.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "WebAPITest\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "WebAPITest\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:21:47.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PaymentQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryPayment\\PaymentQueryHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QueryPayment\\PaymentQueryHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryPayment\\PaymentQueryHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QueryPayment\\PaymentQueryHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:31:06.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Service\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Service\\RabbitMQService.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Service\\RabbitMQService.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Service\\RabbitMQService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:21:20.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Event\\OrderEvent\\OrderEventHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Event\\OrderEvent\\OrderEventHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Event\\OrderEvent\\OrderEventHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Event\\OrderEvent\\OrderEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:43:51.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IRabbitMQBus.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\RabbitMQBus\\IRabbitMQBus.cs",
+              "RelativeDocumentMoniker": "WebAPITest.Infastructure\\RabbitMQBus\\IRabbitMQBus.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\RabbitMQBus\\IRabbitMQBus.cs",
+              "RelativeToolTip": "WebAPITest.Infastructure\\RabbitMQBus\\IRabbitMQBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:11:56.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RabbitMQBus.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\RabbitMQBus\\RabbitMQBus.cs",
+              "RelativeDocumentMoniker": "WebAPITest.Infastructure\\RabbitMQBus\\RabbitMQBus.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\RabbitMQBus\\RabbitMQBus.cs",
+              "RelativeToolTip": "WebAPITest.Infastructure\\RabbitMQBus\\RabbitMQBus.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:35:37.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Customer.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:02:25.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Model\\Category.cs",
+              "RelativeToolTip": "WebTest.Domain\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:52:06.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebTest.Domain\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:56:36.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "WebAPITest.Infastructure\\Repository\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "WebAPITest.Infastructure\\Repository\\PaymentRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:08:51.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\AutoMapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\AutoMapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\AutoMapper\\AutoMapper.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\AutoMapper\\AutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:47:55.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GetByIdPayment.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryPayment\\GetByIdPayment.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QueryPayment\\GetByIdPayment.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryPayment\\GetByIdPayment.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QueryPayment\\GetByIdPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:32:33.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "GetAllPayment.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryPayment\\GetAllPayment.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QueryPayment\\GetAllPayment.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryPayment\\GetAllPayment.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QueryPayment\\GetAllPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:27:36.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\IRepository\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\IRepository\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\IRepository\\IPaymentRepository.cs",
+              "RelativeToolTip": "WebTest.Domain\\IRepository\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:08:16.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebAPITest.Infastructure\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "WebAPITest.Infastructure\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:57:49.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PaymentConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\PaymentCommand\\PaymentConsumer.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Commands\\PaymentCommand\\PaymentConsumer.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Commands\\PaymentCommand\\PaymentConsumer.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Commands\\PaymentCommand\\PaymentConsumer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:44:02.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IRabbitMQService.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Service\\IRabbitMQService.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Service\\IRabbitMQService.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Service\\IRabbitMQService.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Service\\IRabbitMQService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:20:39.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\IEvent\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\IEvent\\IEventHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\IEvent\\IEventHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\IEvent\\IEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:51:14.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\ICommand\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\ICommand\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\ICommand\\ICommandHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\ICommand\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:59:15.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\ICommand\\ICommand.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\ICommand\\ICommand.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\ICommand\\ICommand.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\ICommand\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:59:13.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CreateOrderEvent.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Event\\OrderEvent\\CreateOrderEvent.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Event\\OrderEvent\\CreateOrderEvent.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Event\\OrderEvent\\CreateOrderEvent.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Event\\OrderEvent\\CreateOrderEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:28:44.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\IEvent\\IEvent.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\IEvent\\IEvent.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\IEvent\\IEvent.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\IEvent\\IEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:49:29.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ProductEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Event\\ProductEvent\\ProductEventConsumer.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Event\\ProductEvent\\ProductEventConsumer.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Event\\ProductEvent\\ProductEventConsumer.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Event\\ProductEvent\\ProductEventConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:48:06.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\IQueries\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\IQueries\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\IQueries\\IQueryHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\IQueries\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:17:45.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20241107164851_InitOrder.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Migrations\\20241107164851_InitOrder.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\Migrations\\20241107164851_InitOrder.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\Migrations\\20241107164851_InitOrder.cs",
+              "RelativeToolTip": "WebTest.Domain\\Migrations\\20241107164851_InitOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:48:51.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CategoryQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QuereyCategory\\CategoryQueryHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QuereyCategory\\CategoryQueryHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QuereyCategory\\CategoryQueryHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QuereyCategory\\CategoryQueryHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:16:10.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebTest.Domain\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Domain\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "WebTest.Domain\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:41:49.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "GetAllOrderQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryOrder\\GetAllOrderQuery.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QueryOrder\\GetAllOrderQuery.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QueryOrder\\GetAllOrderQuery.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QueryOrder\\GetAllOrderQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:17:24.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "GetAllCategoryQuery.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QuereyCategory\\GetAllCategoryQuery.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Query\\QuereyCategory\\GetAllCategoryQuery.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Query\\QuereyCategory\\GetAllCategoryQuery.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Query\\QuereyCategory\\GetAllCategoryQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:15:04.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ProductEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Event\\ProductEvent\\ProductEventHandler.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Event\\ProductEvent\\ProductEventHandler.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Event\\ProductEvent\\ProductEventHandler.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Event\\ProductEvent\\ProductEventHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:58:43.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CreateProductEvent.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Event\\ProductEvent\\CreateProductEvent.cs",
+              "RelativeDocumentMoniker": "WebTest.Applicationn\\Event\\ProductEvent\\CreateProductEvent.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebTest.Applicationn\\Event\\ProductEvent\\CreateProductEvent.cs",
+              "RelativeToolTip": "WebTest.Applicationn\\Event\\ProductEvent\\CreateProductEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:58:10.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAJ0TAAAAAAAAAAArwKYTAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-06T10:08:55.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "WebAPITest.Infastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj",
+              "RelativeDocumentMoniker": "WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj",
+              "RelativeToolTip": "WebAPITest.Infastructure\\WebAPITest.Infastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T07:50:20.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ProductQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\ProductQueryRepository\\ProductQueryRepository.cs",
+              "RelativeDocumentMoniker": "WebAPITest.Infastructure\\Repository\\ProductQueryRepository\\ProductQueryRepository.cs",
+              "ToolTip": "C:\\Users\\USER1\\source\\repos\\WebAPITest\\WebAPITest.Infastructure\\Repository\\ProductQueryRepository\\ProductQueryRepository.cs",
+              "RelativeToolTip": "WebAPITest.Infastructure\\Repository\\ProductQueryRepository\\ProductQueryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:52:27.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

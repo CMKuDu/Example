@@ -1,0 +1,14 @@
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\bin\Debug\net8.0\WebTest.Domain.deps.json
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\bin\Debug\net8.0\WebTest.Domain.runtimeconfig.json
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\bin\Debug\net8.0\WebTest.Domain.dll
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\bin\Debug\net8.0\WebTest.Domain.pdb
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\obj\Debug\net8.0\WebTest.Domain.csproj.AssemblyReference.cache
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\obj\Debug\net8.0\WebTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\obj\Debug\net8.0\WebTest.Domain.AssemblyInfoInputs.cache
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\obj\Debug\net8.0\WebTest.Domain.AssemblyInfo.cs
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\obj\Debug\net8.0\WebTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\obj\Debug\net8.0\WebTest.Domain.dll
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\obj\Debug\net8.0\refint\WebTest.Domain.dll
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\obj\Debug\net8.0\WebTest.Domain.pdb
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\obj\Debug\net8.0\WebTest.Domain.genruntimeconfig.cache
+C:\Users\USER1\source\repos\WebAPITest\WebTest.Domain\obj\Debug\net8.0\ref\WebTest.Domain.dll

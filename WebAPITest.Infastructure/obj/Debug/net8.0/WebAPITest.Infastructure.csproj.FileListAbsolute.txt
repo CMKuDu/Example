@@ -1,0 +1,15 @@
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\bin\Debug\net8.0\WebAPITest.Infastructure.deps.json
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\bin\Debug\net8.0\WebAPITest.Infastructure.dll
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\bin\Debug\net8.0\WebAPITest.Infastructure.pdb
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\bin\Debug\net8.0\WebTest.Domain.dll
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\bin\Debug\net8.0\WebTest.Domain.pdb
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\obj\Debug\net8.0\WebAPITest.Infastructure.csproj.AssemblyReference.cache
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\obj\Debug\net8.0\WebAPITest.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\obj\Debug\net8.0\WebAPITest.Infastructure.AssemblyInfoInputs.cache
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\obj\Debug\net8.0\WebAPITest.Infastructure.AssemblyInfo.cs
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\obj\Debug\net8.0\WebAPITest.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\obj\Debug\net8.0\WebAPITe.788ABE65.Up2Date
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\obj\Debug\net8.0\WebAPITest.Infastructure.dll
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\obj\Debug\net8.0\refint\WebAPITest.Infastructure.dll
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\obj\Debug\net8.0\WebAPITest.Infastructure.pdb
+C:\Users\USER1\source\repos\WebAPITest\WebAPITest.Infastructure\obj\Debug\net8.0\ref\WebAPITest.Infastructure.dll
